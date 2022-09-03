@@ -1,0 +1,1 @@
+Knowing your working directory
